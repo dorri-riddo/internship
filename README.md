@@ -145,3 +145,47 @@ double을 인수로 받아서 특정 자리수까지  반올림할 수 있는 �
 25 26 27 28 29 30 
 
 <hr>
+
+### 12번
+
+city. state로 구성된 문자열 데이터를 읽어 city, state를 구분하여 출력하는 프로그램을 작성하라.
+String 의 split 메서드를 쓰지 말고 동일하게 동작하는 메서드를 작성하라.
+
+입력:
+
+Seattle, WA 
+
+Natchez, MS 
+
+Las Vegas, NV 
+
+Palo Alto, CA 
+
+NYC, NY
+
+<hr>
+
+### 13번
+
+13)
+
+아래의 문장이 있다.
+
+입력)
+
+It's a nice
+
+day, isn't it, Mr. Mxyzzptllxy?
+
+I think we should
+
+go for a walk.
+
+
+위 문장을 포맷팅하여 다음처럼 출력하도록 한다. (칼럼의 길이는 72이다.)
+
+It's a nice day, isn't it, Mr. Mxyzzptllxy? I think we should go for a
+
+walk.
+
+<hr>
