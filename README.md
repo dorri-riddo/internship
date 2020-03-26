@@ -167,8 +167,6 @@ NYC, NY
 
 ### 13번
 
-13)
-
 아래의 문장이 있다.
 
 입력)
@@ -189,3 +187,19 @@ It's a nice day, isn't it, Mr. Mxyzzptllxy? I think we should go for a
 walk.
 
 <hr>
+
+### 14번
+
+아래의 문자열을 입력 받아 왼쪽 정렬, 가운데 정렬, 오른쪽 정렬할 수 있도록 프로그램을 구현한다. column size는 70 이다
+
+Contents
+
+1 Usage
+
+2 Encoding
+
+2.1 Character encodings
+
+2.2 Control codes
+
+3 See also
