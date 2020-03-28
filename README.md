@@ -194,21 +194,17 @@ walk.
 
 Contents
 
-1 Usage
-
-2 Encoding
-
-2.1 Character encodings
-
-2.2 Control codes
-
-3 See also
+1 Usage <\n>
+2 Encoding <\n>
+2.1 Character encodings <\n>
+2.2 Control codes <\n>
+3 See also <\n>
 
 <hr>
 
 ### 15번
 
-15) 문장을 입력 받아 단어 단위로 거꾸로 출력하는 프로그램을 작성한다.
+문장을 입력 받아 단어 단위로 거꾸로 출력하는 프로그램을 작성한다.
 
 예)
 
