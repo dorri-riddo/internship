@@ -194,11 +194,11 @@ walk.
 
 Contents
 
-1 Usage <\n>
-2 Encoding <\n>
-2.1 Character encodings <\n>
-2.2 Control codes <\n>
-3 See also <\n>
+1 Usage <br>
+2 Encoding <br>
+2.1 Character encodings <br>
+2.2 Control codes <br>
+3 See also <br>
 
 <hr>
 
